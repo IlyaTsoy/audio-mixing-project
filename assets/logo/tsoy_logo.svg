@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="551.9" height="87.7" viewBox="0 0 551.9 87.7">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 33.87px;
+        font-family: Nunito-Regular, Nunito;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-1, .cls-5 {
+        fill: #ddd;
+      }
+
+      .cls-2 {
+        letter-spacing: 0.05em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.05em;
+      }
+
+      .cls-4, .cls-6, .cls-7 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4, .cls-6 {
+        stroke: #ddd;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-linecap: round;
+      }
+
+      .cls-7 {
+        stroke: #333;
+      }
+    </style>
+  </defs>
+  <title>tsoy_logo_1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="logo_v2" data-name="logo v2">
+      <g>
+        <text class="cls-1" transform="translate(351.3 33.3)">Mixing <tspan x="0" y="40.6">&amp; Ma</tspan><tspan class="cls-2" x="84.4" y="40.6">s</tspan><tspan class="cls-3" x="102.2" y="40.6">tering</tspan></text>
+        <line class="cls-4" x1="329.5" y1="87.7" x2="329.5"/>
+        <path class="cls-5" d="M43.8,0V87.7H29.1v-73H0V0Z"/>
+        <path class="cls-5" d="M78.9,51.2a24.6,24.6,0,0,1-18.1-7.5,25.1,25.1,0,0,1-7.5-18.2,24.8,24.8,0,0,1,7.5-18A24.3,24.3,0,0,1,78.9,0V14.7a11,11,0,0,0-4.3.8A10,10,0,0,0,71,17.9,10.6,10.6,0,0,0,68,25.5,10.7,10.7,0,0,0,71,33.3a10.6,10.6,0,0,0,7.9,3.3h21.8a25.6,25.6,0,0,1,25.6,25.5,25.6,25.6,0,0,1-25.6,25.5V73a11,11,0,0,0,4.3-.8,10.2,10.2,0,0,0,3.6-2.3,9.8,9.8,0,0,0,2.3-3.5,11,11,0,0,0,.9-4.3,10.9,10.9,0,0,0-3.3-7.7,10.5,10.5,0,0,0-7.8-3.3Z"/>
+        <path class="cls-5" d="M260.3,55.8h0l-24.9,32H216.7l34.4-43.8L216.7,0h18.7l24.9,32,25-32h18.5L269.6,43.8Zm0,0L235.4,87.7l24.9-32Z"/>
+        <path class="cls-5" d="M209.2,12.9a43.4,43.4,0,0,0-61.8,0,42.3,42.3,0,0,0-12.9,30.9,42,42,0,0,0,12.9,30.9c8.6,8.6,18.7,12.9,30.9,12.9a42,42,0,0,0,30.9-12.9,41.5,41.5,0,0,0,13-30.9A41.9,41.9,0,0,0,209.2,12.9ZM178.4,84.5a40.7,40.7,0,1,1,40.7-40.7A40.7,40.7,0,0,1,178.4,84.5Z"/>
+        <line class="cls-6" x1="178.4" y1="9.7" x2="178.4" y2="77.5"/>
+        <line class="cls-6" x1="197.7" y1="15.8" x2="197.7" y2="71.4"/>
+        <line class="cls-6" x1="159" y1="15.8" x2="159" y2="71.4"/>
+        <rect class="cls-5" x="171.1" y="18.4" width="14.5" height="33.87" rx="2.4" ry="2.4"/>
+        <g>
+          <line class="cls-7" x1="182.6" y1="35.2" x2="174.1" y2="35.2"/>
+          <line class="cls-7" x1="182.6" y1="27.9" x2="174.1" y2="27.9"/>
+          <line class="cls-7" x1="182.6" y1="42.8" x2="174.1" y2="42.8"/>
+        </g>
+        <g>
+          <rect class="cls-5" x="190.5" y="30.5" width="14.5" height="33.87" rx="2.4" ry="2.4"/>
+          <g>
+            <line class="cls-7" x1="202" y1="47.3" x2="193.5" y2="47.3"/>
+            <line class="cls-7" x1="202" y1="40" x2="193.5" y2="40"/>
+            <line class="cls-7" x1="202" y1="54.9" x2="193.5" y2="54.9"/>
+          </g>
+        </g>
+        <rect class="cls-5" x="151.8" y="30.5" width="14.5" height="33.87" rx="2.4" ry="2.4"/>
+        <g>
+          <line class="cls-7" x1="163.3" y1="47.3" x2="154.8" y2="47.3"/>
+          <line class="cls-7" x1="163.3" y1="40" x2="154.8" y2="40"/>
+          <line class="cls-7" x1="163.3" y1="54.9" x2="154.8" y2="54.9"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
